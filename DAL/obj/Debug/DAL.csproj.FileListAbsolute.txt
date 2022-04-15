@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\SupplierAssignment 3 Tier ASP.Net\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\SupplierAssignment 3 Tier ASP.Net\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\SupplierAssignment 3 Tier ASP.Net\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\SupplierAssignment 3 Tier ASP.Net\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SupplierAssignment 3 Tier ASP.Net\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\SupplierAssignment 3 Tier ASP.Net\DAL\obj\Debug\DAL.pdb
