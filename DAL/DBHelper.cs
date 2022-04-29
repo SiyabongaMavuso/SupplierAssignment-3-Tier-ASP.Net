@@ -10,7 +10,7 @@ namespace DAL
 {
     public class DBHelper
     {
-        static string CONNECTION_STRING = "Data Source = localhost; Initial Catalog = Northwind; Integrated Security = true";
+        static string CONNECTION_STRING = "Data Source = localhost; Initial Catalog = Northwind;Trusted_Connection= True; Integrated Security = true";
 
         #region ExecuteScalarCommand()
         internal static DataTable ExecuteScalarCommand(string commandName, CommandType cmdType)

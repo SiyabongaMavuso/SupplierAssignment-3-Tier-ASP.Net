@@ -17,6 +17,7 @@ namespace DAL
             {
                 new SqlParameter("@CompanyName", supplier.CompanyName),
                 new SqlParameter("@ContactTitle", supplier.ContactTitle),
+                new SqlParameter("@ContactName", supplier.ContactName),
                 new SqlParameter("@Address", supplier.Address),
                 new SqlParameter("@City", supplier.City),
                 new SqlParameter("@Region", supplier.Region),
@@ -38,6 +39,7 @@ namespace DAL
             {
                 new SqlParameter("@SupplierID", supplier.SupplierID),
                 new SqlParameter("@CompanyName", supplier.CompanyName),
+                new SqlParameter("@ContactName", supplier.ContactName),
                 new SqlParameter("@ContactTitle", supplier.ContactTitle),
                 new SqlParameter("@Address", supplier.Address),
                 new SqlParameter("@City", supplier.City),
@@ -81,7 +83,8 @@ namespace DAL
                     DataRow row = table.Rows[0];
                     supplier = new Supplier();
                     supplier.SupplierID = Convert.ToInt32(row["SupplierID"]);
-                    supplier.CompanyName = row["CompanyName"].ToString();
+                    supplier.CompanyName = row["CompanyName"].ToString(); 
+                    supplier.ContactName = row["ContactName"].ToString();
                     supplier.ContactTitle = row["ContactTitle"].ToString();
                     supplier.Address = row["Address"].ToString();
                     supplier.City = row["City"].ToString();
@@ -113,7 +116,8 @@ namespace DAL
                     {
                         Supplier supplier = new Supplier();
                         supplier.SupplierID = Convert.ToInt32(row["SupplierID"]);
-                        supplier.CompanyName = row["CompanyName"].ToString();
+                        supplier.CompanyName = row["CompanyName"].ToString(); 
+                        supplier.ContactName = row["ContactName"].ToString();
                         supplier.ContactTitle = row["ContactTitle"].ToString();
                         supplier.Address = row["Address"].ToString();
                         supplier.City = row["City"].ToString();

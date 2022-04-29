@@ -7,3 +7,21 @@ C:\Users\Administrator\Desktop\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\B
 C:\Users\Administrator\Desktop\SupplierAssignment 3 Tier ASP.Net\BLL\bin\Debug\DAL.dll
 C:\Users\Administrator\Desktop\SupplierAssignment 3 Tier ASP.Net\BLL\bin\Debug\DAL.pdb
 C:\Users\Administrator\Desktop\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\3rd AY\SupplierAssignment 3 Tier ASP.Net\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\3rd AY\SupplierAssignment 3 Tier ASP.Net\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\3rd AY\SupplierAssignment 3 Tier ASP.Net\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\3rd AY\SupplierAssignment 3 Tier ASP.Net\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\3rd AY\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\3rd AY\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\3rd AY\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\3rd AY\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\3rd AY\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\3rd AY\DamainONT(C#)\SupplierAssignment 3 Tier ASP.Net\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\3rd AY\DamainONT(C#)\SupplierAssignment 3 Tier ASP.Net\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\3rd AY\DamainONT(C#)\SupplierAssignment 3 Tier ASP.Net\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\3rd AY\DamainONT(C#)\SupplierAssignment 3 Tier ASP.Net\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\3rd AY\DamainONT(C#)\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\3rd AY\DamainONT(C#)\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\3rd AY\DamainONT(C#)\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\3rd AY\DamainONT(C#)\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\3rd AY\DamainONT(C#)\SupplierAssignment 3 Tier ASP.Net\BLL\obj\Debug\BLL.pdb
